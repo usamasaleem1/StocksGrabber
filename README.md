@@ -1,8 +1,8 @@
 # StocksGrabber
 Using TradingView to scrape and download information such as Securities Logos. The script asks the user for the ticker symbol, such as TSLA, and downloads the associated company logo, scraped from TradingView.com, to the desktop. 
 
-![logo](https://raw.githubusercontent.com/usamasaleem1/StocksGrabber/main/StocksGrabberLogo.png){height="50%" width="50%"}
-
+![logo](https://raw.githubusercontent.com/usamasaleem1/StocksGrabber/main/StocksGrabberLogo.png)
+<img src="https://raw.githubusercontent.com/usamasaleem1/StocksGrabber/main/StocksGrabberLogo.png" width="100" height="100">
 
 # The following readme was generated using a side project of mine, a GPT-3 Powered readme generator:
 ## What is it?
